@@ -15,7 +15,7 @@ Existing neighborhood aggregation strategies fail to capture either the short-te
 
 In particular, we present a novel link-based framing technique to preserve the short-term features and then incorporate a timeline aggregator module to capture the intrinsic dynamics of graph evolution as long-term features. Our method can be easily assembled with most temporal GNNs. Extensive experiments on common datasets show that our method brings great improvements to the capability, robustness, and domain generality of backbone methods in downstream tasks.
 
-Paper link: [FTM: A Frame-level Timeline Modeling Method for Temporal Graph Representation Learning]()
+Paper link: [coming soon]()
 ## Running the experiments
 ### Requirements
 
@@ -42,7 +42,7 @@ python utils/preprocess_data.py --data wikipedia --bipartite
 python utils/preprocess_data.py --data reddit --bipartite
 ```
 
-#### ***TL;DR*** Download our preprocessed data here: [link]() , then put all the files in `/path/to/data_fold/`
+#### ***TL;DR*** Download our preprocessed data here: [link](https://drive.google.com/file/d/18ZwwU3dLI4bCQ4zG4MmgTXkGiJlDI_1h/view?usp=sharing) , then put all the files in `/path/to/data_fold/`
 
 
 ## Model Training
