@@ -15,7 +15,7 @@ Existing neighborhood aggregation strategies fail to capture either the short-te
 
 In particular, we present a novel link-based framing technique to preserve the short-term features and then incorporate a timeline aggregator module to capture the intrinsic dynamics of graph evolution as long-term features. Our method can be easily assembled with most temporal GNNs. Extensive experiments on common datasets show that our method brings great improvements to the capability, robustness, and domain generality of backbone methods in downstream tasks.
 
-Paper link: [coming soon]()
+Paper link: [ArXiv](https://arxiv.org/abs/2302.11814)
 ## Running the experiments
 ### Requirements
 
