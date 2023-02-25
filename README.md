@@ -68,4 +68,23 @@ https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-tem
 Many thanks to the authors and developers!
 
 ## Cite Us
-todo
+<pre>
+@misc{https://doi.org/10.48550/arxiv.2302.11814,
+  doi = {10.48550/ARXIV.2302.11814},
+  
+  url = {https://arxiv.org/abs/2302.11814},
+  
+  author = {Cao, Bowen and Ye, Qichen and Xu, Weiyuan and Zou, Yuexian},
+  
+  keywords = {Machine Learning (cs.LG), Social and Information Networks (cs.SI), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {FTM: A Frame-level Timeline Modeling Method for Temporal Graph Representation Learning},
+  
+  publisher = {arXiv},
+  
+  year = {2023},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+
+</pre>
